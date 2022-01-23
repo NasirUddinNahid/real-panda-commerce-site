@@ -1,0 +1,22 @@
+.carousel-bg-color,.subscriber-bg-color{
+    background-color: #fceae8;
+}
+.anda-btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.Anda-price-color{
+    color: #FF136F;
+}
+.catagories-bg-color-watch{
+    background-color: orange;
+}
+.catagories-bg-color-shoes{
+    background-color: orchid;
+}
+.catagories-bg-color-bag{
+    background-color: blue;
+}
